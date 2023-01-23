@@ -1,0 +1,1 @@
+This is a modern shopping page built with HTML & CSS
